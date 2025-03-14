@@ -10,5 +10,8 @@
     <ClCompile Include="main.c">
       <Filter>c 소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="value.c">
+      <Filter>c 소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
