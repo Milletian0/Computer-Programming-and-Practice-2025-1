@@ -6,10 +6,6 @@
 
 int value(int);
 
-int main() {
-	return value(1); /* 1을 반환한다. */
-}
-
 /* value 함수 정의 */
 
 int value(int x) {
